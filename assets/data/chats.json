@@ -4,12 +4,14 @@
     "user": {
       "id": "u2",
       "name": "Lukas",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/lukas.jpeg"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/lukas.jpeg",
+      "status": "Hey ! there . I am using Whatsapp."
     },
     "lastMessage": {
       "id": "m1",
       "text": "Well done this sprint, guys!",
       "createdAt": "2023-05-06T13:30:00.000Z"
+      
     }
   },
   {
@@ -17,7 +19,8 @@
     "user": {
       "id": "u3",
       "name": "Daniil Top",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/1.jpg",
+      "status": "Available"
     },
     "lastMessage": {
       "id": "m2",
@@ -30,7 +33,8 @@
     "user": {
       "id": "u4",
       "name": "Alex",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/8.png"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/8.png",
+      "status": "Enjoy Every Moment!"
     },
     "lastMessage": {
       "id": "m3",
@@ -43,7 +47,8 @@
     "user": {
       "id": "u5",
       "name": "Vlad",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/jeff.jpeg"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/jeff.jpeg",
+      "status": "GOD Bless you!"
     },
     "lastMessage": {
       "id": "m4",
@@ -56,7 +61,8 @@
     "user": {
       "id": "u6",
       "name": "Elon Musk",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/elon.png",
+      "status": "Wake Up to Reality."
     },
     "lastMessage": {
       "id": "m5",
@@ -69,7 +75,8 @@
     "user": {
       "id": "u7",
       "name": "Adrian",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg",
+      "status": "Sad"
     },
     "lastMessage": {
       "id": "m6",
@@ -82,7 +89,8 @@
     "user": {
       "id": "u8",
       "name": "Borja",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/zuck.jpeg"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/zuck.jpeg",
+      "status": "Very Lonely"
     },
     "lastMessage": {
       "id": "m7",
@@ -95,7 +103,8 @@
     "user": {
       "id": "u9",
       "name": "Mom",
-      "image": "https://image.shutterstock.com/image-vector/super-mom-hero-superhero-cartoon-600w-720015928.jpg"
+      "image": "https://image.shutterstock.com/image-vector/super-mom-hero-superhero-cartoon-600w-720015928.jpg",
+      "status": "Eat Sleep Repeat"
     },
     "lastMessage": {
       "id": "m8",
@@ -108,7 +117,8 @@
     "user": {
       "id": "u9",
       "name": "Andrei",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
+      "status": "am Happy...."
     },
     "lastMessage": {
       "id": "m8",
@@ -121,7 +131,8 @@
     "user": {
       "id": "u9",
       "name": "Misha",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg",
+      "status": "Radhe Radhe!!!!!"
     },
     "lastMessage": {
       "id": "m8",
@@ -134,7 +145,8 @@
     "user": {
       "id": "u9",
       "name": "Alina",
-      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/7.png"
+      "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/7.png",
+      "status": "Jai Shree Ram"
     },
     "lastMessage": {
       "id": "m8",

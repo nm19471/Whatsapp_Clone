@@ -1,10 +1,23 @@
 import { View , Text, ImageBackground, StyleSheet,FlatList} from 'react-native'
+import { useEffect } from 'react';
+import {useNavigation,useRoute} from '@react-navigation/native';
 import bg from '../../assets/images/BG.png';
 import Message from '../components/Message';
 import messages from '../../assets/data/messages.json'
 import InputBox from '../components/InputBox';
 
 const ChatScreen = () => {
+  const route=useRoute();
+  const navigation = useNavigation();
+
+  navigation.setOptions({title: route.params.name});
+
+  useEffect(()=>{
+    navigation.setOptions({title: route.params.name});
+  },[route.params.name]);
+
+
+
   return (
     <ImageBackground source={bg} style={styles.bg}>
 
