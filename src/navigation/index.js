@@ -4,6 +4,8 @@ import ChatScreen from '../screens/ChatScreen'
 import ChatsScreen from '../screens/ChatsScreen'
 import MainTabNavigator from './MainTabNavigator'
 import ContactScreen from '../screens/ContactScreen'
+import { Image } from 'react-native'
+// import {useRoute} from '@react-navigation/native';
 
 const Stack= createNativeStackNavigator();
 
@@ -19,7 +21,16 @@ const Navigator = () => {
           options={{headerShown: false}}
         />
          
-         <Stack.Screen name='Chat' component={ChatScreen}/>
+         <Stack.Screen name='Chat' component={ChatScreen} options={{headerShown: false}}
+              //  options={{
+              //   headerLeft: () => (
+              //     <Image
+              //       style={{ width: 30, height: 30, margin: 20 }}
+              //       source={{uri: }}
+              //     />
+              //   ),
+              // }}
+         />
 
          <Stack.Screen name='Contacts' component={ContactScreen}/>
 
